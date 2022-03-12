@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "http://localhost:8000",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-06-01T14:24:08-07:00",
+  "id": "codelab-tutorial",
+  "duration": 14,
+  "title": "CodeLab to Create a CodeLab",
+  "summary": "Create a CodeLab Using Markdown",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://github.com/Mrc0113/codelab-4-codelab",
+  "url": "codelab-tutorial"
+}

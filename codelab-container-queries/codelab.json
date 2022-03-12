@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2021-06-01T13:54:13-07:00",
+  "id": "codelab-container-queries",
+  "duration": 0,
+  "title": "CSS Containment and container queries",
+  "summary": "Create a CodeLab Using Markdown",
+  "source": "container-queries.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "“",
+  "url": "codelab-container-queries"
+}
